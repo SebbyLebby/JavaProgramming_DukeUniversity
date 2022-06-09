@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Perimeter
+comment1.params=s
+comment1.target=double\ berechnPerimeter(edu.duke.Shape)
+comment2.params=s
+comment2.target=int\ getNumPoints(edu.duke.Shape)
+comment3.params=s
+comment3.target=double\ bekommDurschnittsl\u00E4nge(edu.duke.Shape)
+comment4.params=s
+comment4.target=double\ gr\u00F6steSeite(edu.duke.Shape)
+comment5.params=
+comment5.target=void\ obtenerFigura()
+comment6.params=
+comment6.target=void\ multiplesArchivos()
+numComments=7
